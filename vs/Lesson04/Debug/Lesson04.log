@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(195,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(283,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(372,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(457,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(544,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(630,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(717,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson04\Demo.cpp(807,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson04.vcxproj -> H:\eki\1. UB\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Debug\Lesson04.exe

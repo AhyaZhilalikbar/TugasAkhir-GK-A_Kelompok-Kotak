@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::shaderProgram' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::shaderProgram</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::VAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::VAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::VBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::VBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::EBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::EBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::texture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::VBO2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::VBO2</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::VAO2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::VAO2</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::EBO2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::EBO2</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::texture2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::texture2</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemariVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemariVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemariVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemariVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemariEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemariEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemariTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemariTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemari2VBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemari2VBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemari2VAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemari2VAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemari2EBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemari2EBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::kacalemari2Texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::kacalemari2Texture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::lantaiVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::lantaiVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::lantaiVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::lantaiVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::lantaiEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::lantaiEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::lantaiTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::lantaiTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tembokVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tembokVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tembokVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tembokVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tembokEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tembokEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tembokTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tembokTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tidurVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tidurVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tidurVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tidurVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tidurEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tidurEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::tidurTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::tidurTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidurVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidurVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidurVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidurVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidurEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidurEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidurTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidurTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidur2VBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidur2VBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidur2VAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidur2VAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidur2EBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidur2EBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::papantidur2Texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::papantidur2Texture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::acVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::acVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::acVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::acVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::acEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::acEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::acTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::acTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::windowVBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::windowVBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::windowVAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::windowVAO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::windowEBO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::windowEBO</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::windowTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::windowTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::viewCamX' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::viewCamX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::viewCamY' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::viewCamY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::viewCamZ' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::viewCamZ</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::upCamX' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::upCamX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::upCamY' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::upCamY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::upCamZ' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::upCamZ</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::posCamX' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::posCamX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::posCamY' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::posCamY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::posCamZ' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::posCamZ</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::CAMERA_SPEED' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::CAMERA_SPEED</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::fovy' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::fovy</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

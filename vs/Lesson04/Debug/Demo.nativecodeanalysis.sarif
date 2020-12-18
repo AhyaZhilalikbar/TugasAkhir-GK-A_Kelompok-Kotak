@@ -1,0 +1,2578 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::shaderProgram' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::shaderProgram"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::VAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::VBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::EBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::EBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::texture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::texture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VBO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::VBO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VAO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::VAO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::EBO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::EBO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::texture2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::texture2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemariVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemariVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemariVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemariVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemariEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemariEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemariTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemariTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemari2VBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemari2VBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemari2VAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemari2VAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemari2EBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemari2EBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::kacalemari2Texture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::kacalemari2Texture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::lantaiVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::lantaiVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::lantaiVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::lantaiVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::lantaiEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::lantaiEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::lantaiTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::lantaiTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tembokVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tembokVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tembokVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tembokVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tembokEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tembokEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tembokTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tembokTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tidurVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tidurVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tidurVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tidurVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tidurEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tidurEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::tidurTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::tidurTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidurVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidurVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidurVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidurVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidurEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidurEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidurTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidurTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidur2VBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidur2VBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidur2VAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidur2VAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidur2EBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidur2EBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::papantidur2Texture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::papantidur2Texture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::acVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::acVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::acVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::acVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::acEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::acEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::acTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::acTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::windowVBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::windowVBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::windowVAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::windowVAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::windowEBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::windowEBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::windowTexture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::windowTexture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::viewCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::viewCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::viewCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::upCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::upCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::upCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::posCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::posCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::posCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::CAMERA_SPEED' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::CAMERA_SPEED"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::fovy' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 7,
+                  "endLine": 3,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": [],
+          "properties": {
+            "targetSymbol": "Demo::fovy"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.28.29334.0"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX86\\x86\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00F4B1D0 -il C:\\Users\\rimba\\AppData\\Local\\Temp\\_CL_81758cc3ast -typedil -f Demo.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1928 -D_MSC_FULL_VER=192829334 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_MBCS -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -FoDebug\\Demo.obj -FdDebug\\vc142.pdb -Gd -analyze:projectdirectory C:\\Users\\rimba\\OneDrive\\Desktop\\Semester 5\\grafkom\\Grafika Komputer dan Visualisasi\\vs\\Lesson04 -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Users\\rimba\\OneDrive\\Desktop\\Semester 5\\grafkom\\Grafika Komputer dan Visualisasi\\deps\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\ucrt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\cppwinrt -I C:\\Users\\rimba\\OneDrive\\Desktop\\Semester 5\\grafkom\\Grafika Komputer dan Visualisasi\\vs\\Lesson04\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/rimba/OneDrive/Desktop/Semester 5/grafkom/Grafika Komputer dan Visualisasi/vs/Lesson04/Demo.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/vs/lesson04/demo.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/vs/lesson04/renderengine.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glad/glad.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/khr/khrplatform.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glfw/glfw3.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/glm.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/_fixes.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/fwd.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_int.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/setup.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_float.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/precision.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/vec2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec2.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/vec3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec3.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/vec4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4_sse2.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat2x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x2.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat2x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x3.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat2x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x4.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat3x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x2.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat3x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x3.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat3x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x4.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat4x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x2.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x2.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat4x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x3.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x3.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/mat4x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x4.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x4.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/trigonometric.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_trigonometric.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_trigonometric.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/_vectorize.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec1.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec1.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/exponential.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_exponential.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_exponential.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_vector_relational.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_vector_relational.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/common.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_common.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_common.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/packing.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_packing.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_packing.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_half.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/type_half.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/geometric.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_geometric.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_geometric.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/matrix.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_matrix.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_matrix.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/vector_relational.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/integer.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_integer.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/detail/func_integer.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/matrix_transform.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/constants.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/constants.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/matrix_transform.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/type_ptr.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/quaternion.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/quaternion.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/type_ptr.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/vector_angle.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/epsilon.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtc/epsilon.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/quaternion.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/norm.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/norm.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/quaternion.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/rotate_vector.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/transform.hpp"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/transform.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/rotate_vector.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/glm/gtx/vector_angle.inl"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/rimba/onedrive/desktop/semester 5/grafkom/grafika komputer dan visualisasi/deps/include/soil/soil.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        }
+      ]
+    }
+  ]
+}

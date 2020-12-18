@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rimba\OneDrive\Desktop\Semester 5\grafkom\Grafika Komputer dan Visualisasi\vs\Lesson04\</FILEPATH>
+      <FILENAME>Demo.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Demo::shaderProgram' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Demo::{ctor}</FUNCTION>
+    <DECORATED>??0Demo@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Demo::shaderProgram</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
